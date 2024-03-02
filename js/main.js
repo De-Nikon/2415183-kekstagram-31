@@ -113,4 +113,5 @@ const createPost = () =>({
 //функция создания нескольких постов
 const multiplePosts = Array.from({length:POST_COUNT}, createPost);
 
-multiplePosts();
+// multiplePosts();
+// console.log (multiplePosts);
